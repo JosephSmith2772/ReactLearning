@@ -19,7 +19,7 @@ function Weather() {
      console.log(data.weather);
     setWeather(data.main);
    
-    
+    console.log("This is some new code change that works")
 
   };
   console.log(weather)
